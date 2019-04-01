@@ -29,7 +29,7 @@ Aenean ultricies tempus neque, faucibus vel mi. Lorem ipsum dolor sit amet elit.
 
 More training data will produce more diverse output.
 
-For more information about Markov chains, [see here](https://en.wikipedia.org/wiki/Markov_chain).
+For more information about Markov chains, [see here](https://brilliant.org/wiki/markov-chains/).
 
 ## License
 This project is licensed under the GNU GPLv3 license. Please see the LICENSE file for more details.
